@@ -88,6 +88,58 @@ Pour avoir une description de Data et pour voir quelques valeurs basic de statiq
 | max    	| 1.599500     	| 1.603800     	| 1.586600     	| 1.599700     	| 308716.000000> 	| 
 
 ## Visualisation De Data Avec Matplotlib
-
+ ## Courbe
  A travers la commande ```pyplot.plot```, on consulte la courbe des prix d'ouverture en fonction des annees:
  ![Forex](Images/graphe.png)
+
+ ### On constate que la courbe a ete conuite par un trend accendant jusqu'au periode de 2010 au 2013, le trend peut etre dessine en s'appuiant sur les deux points de support de 1985 et 2002 , on deduit que la zone de 0.6 vers 0.85 est une zone de supporte forte
+
+ ## Plot close diagramme
+
+![Forex](Images/plot.png)
+ ### le diagramme mis en evidence les premiers mouvement reels du pair 
+ 
+## Diagramme Bar de Volume
+![Forex](Images/volume.png)
+
+### On Constate ici que le volume des operations du pair EURUSD a multiplie depuis 2010 , on peut bien distinge cette le changement a travers la figure 
+
+## Diagramme Boxplot de tous les caracteristiques de DataSet:
+
+ ![Forex](Images/boxplot.png)
+
+ ### A travers ce diagramme ,les moyens de tous les caracteristiques sont presque egaux , tous ces features sont tous dans la meme zone  et  on constate que le prix du pair etait toujours borne par 0.9 et 1.25, cette zone s'est la zone globale de mouvement . 
+
+ ## Diagramme Heatmap de tous les caracteristiques de DataSet:
+
+  ![Forex](Images/Heatmap.png)
+
+### A travers le heatmap , on peut confirme la resultat precedente , la zone de mouvement est bien precis 
+
+ ## Histogramme de volume :
+ ![Forex](Images/Bar.png)
+ 
+ ## ce histogramme rend la vision plus claire pour l'evolution de volume de pair , ici on peut distinguer la date exacte de la debut de l'evolution enorme ,c'etait marquer en decembre 2009 , en revenant a cette periode dans le graphe du courbe , on deduit que c'etait aussi la date du pique historique du pair ou il a marque son valeur maximale historique de 1.6  
+
+ ## Histogramme de open :
+
+ ![Forex](Images/BarTrend.png)
+ ### Ce histogramme confirme l'existance du trend accendant , il bien present dans la figure
+ 
+ ## Lag_plot de open :
+
+ ![Forex](Images/lag_plot.png)
+
+ ### a travers ce lag plot , il est bien claire qu'il existe une forme non aleatoire des donnees , l'existance de forme , confirme que le donnee ne se comporte pas d'une facon aleatoire    
+ 
+ ## Moving Average 50 Diagramme
+
+ ![Forex](Images/move 50.png)
+### La moyenne mobile sur 50 jours (appelée aussi « 50 DMA ») est un indicateur technique fiable utilisé par plusieurs investisseurs pour analyser l'évolution des cours, il s'agit simplement de la moyenne des cours de clôture d'un titre sur les 50 derniers jours.
+
+ ## Moving Average 100 Diagramme
+
+ ![Forex](Images/move 100.png)
+
+ 
+ 
