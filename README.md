@@ -7,6 +7,18 @@ Le marché des changes est un marché mondial décentralisé ou de gré à gré 
 ### EURUSD Pair
 
 L'EUR/USD est le ticker forex qui indique aux traders combien de dollars américains sont nécessaires pour acheter un euro. La paire euro-dollar est populaire auprès des traders car ses constituants représentent les deux économies les plus importantes et les plus influentes du monde.
+#### Install the requirements
+
+> - Install the pandas library using command pip install pandas.
+> - Install the numpy library using command pip install numpy.
+
+```import pandas as pd```
+
+```import numpy as np```
+
+```import seaborn as sns```
+
+```import matplotlib.pyplot as plt```
 
 #### Importation de DataSet
 
@@ -17,3 +29,5 @@ L'EUR/USD est le ticker forex qui indique aux traders combien de dollars améric
 | 2019-05-03 	| 1.11710 	| 1.13236 	| 1.11346 	| 1.13234 	| 62828  	|
 | 2019-05-08 	| 1.11922 	| 1.11927 	| 1.11892 	| 1.11920 	| 698    	|
 | 2019-05-09 	| 1.11902 	| 1.11985 	| 1.11860 	| 1.11903 	| 12844> 	|
+
+:small_orange_diamond: drvr_fatl_col_bmiles = Number of drivers involved in fatal collisions per billion miles (2011).
