@@ -53,11 +53,12 @@ Ensuite, on utilise ```.shape``` pour observer avoir les dimensions de DataSet, 
 12115 lignes et 5 colones
 Puis, on utilise ```.info``` pour consulter les details de DataSet, on obtient ceci:
 
- #   Column  Non-Null Count  Dtype  
----  ------  --------------  -----  
- 0   open    12115 non-null  float64
- 1   high    12115 non-null  float64
- 2   low     12115 non-null  float64
- 3   close   12115 non-null  float64
- 4   volume  12115 non-null  int64  
+| #   	| Column 	| Non-Null Count 	| Dtype   	| 
+|-----	|--------	|----------------	|---------	|
+| --- 	| ------ 	| -------------- 	| -----   	|   
+| 0   	| open   	| 12115 non-null 	| float64 	|   
+| 1   	| high   	| 12115 non-null 	| float64 	|   
+| 2   	| low    	| 12115 non-null 	| float64 	|   
+| 3   	| close  	| 12115 non-null 	| float64 	|   
+| 4   	| volume 	| 12115 non-null 	| int64   	|   
 dtypes: float64(4), int64(1)
