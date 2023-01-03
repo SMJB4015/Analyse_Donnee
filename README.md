@@ -98,7 +98,7 @@ Pour avoir une description de Data et pour voir quelques valeurs basic de statiq
 
 ![Forex](Images/plot.png)
  ### le diagramme mis en evidence les premiers mouvement reels du pair 
- 
+
 ## Diagramme Bar de Volume
 ![Forex](Images/volume.png)
 
@@ -134,12 +134,12 @@ Pour avoir une description de Data et pour voir quelques valeurs basic de statiq
  
  ## Moving Average 50 Diagramme
 
- ![Forex](Images/move 50.png)
+ ![Forex](Images/move50.png)
 ### La moyenne mobile sur 50 jours (appelée aussi « 50 DMA ») est un indicateur technique fiable utilisé par plusieurs investisseurs pour analyser l'évolution des cours, il s'agit simplement de la moyenne des cours de clôture d'un titre sur les 50 derniers jours.
 
  ## Moving Average 100 Diagramme
 
- ![Forex](Images/move 100.png)
+ ![Forex](Images/move100.png)
 
  
  
