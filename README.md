@@ -4,7 +4,8 @@
 ![Forex](Images/Forex.jpg)
 
 Le marché des changes est un marché mondial décentralisé ou de gré à gré pour le commerce des devises. Ce marché détermine les taux de change pour chaque devise. Il comprend tous les aspects de l'achat, de la vente et de l'échange de devises à des prix courants ou déterminés
-### Introduction:EURUSD Pair
+### EURUSD Pair
+### Introduction:
 
 L'EUR/USD est le ticker forex qui indique aux traders combien de dollars américains sont nécessaires pour acheter un euro. La paire euro-dollar est populaire auprès des traders car ses constituants représentent les deux économies les plus importantes et les plus influentes du monde.
 ### Objectifs:
@@ -13,7 +14,7 @@ Les Objectifs de cette analyse sont :
 - Analyse Technique de Courbe du Pair EURUSD
 - Recherche de trends et des Zone support et ressistance 
 - anaylse avec les indicateurs DMA50 et DMA100
-  ### Conclusion :
+### Conclusion :
   Le pair EURUSD est bornee avec 0.9 et 1.25 , il existe un trend accendant 1985 jusqu'a 2012 sur le chart Annuel. la debut de pair reel etait en mai 1971.pour la periode de 2018 et 2019 ,les indicateurs DMA50 et DMA 100 indique une opposition de trend de haut vers le bas. le trend a change la direction en avril 2018 , les indicateurs sont pour la chart mensuiel
 #### Install the requirements
 
